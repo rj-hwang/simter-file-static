@@ -1,0 +1,23 @@
+{
+  "name": "simter-file-static",
+  "version": "0.1.0",
+  "description": "Simter File Server For Static Files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rj-hwang/simter-file-static.git"
+  },
+  "keywords": [
+    "Simter",
+    "File"
+  ],
+  "author": "RJ.Hwang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rj-hwang/simter-file-static/issues"
+  },
+  "homepage": "https://github.com/rj-hwang/simter-file-static#readme"
+}
